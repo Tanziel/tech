@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\23022\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = 2302237071
+	name = Tanziel
+[http]
+	proxy = http://127.0.0.1:7897
